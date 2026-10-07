@@ -8,4 +8,4 @@ Sou estudante de Ciência da Computação na UNIFOR (Universidade de Fortaleza),
 * JavaScript
 * HTML/CSS
 * Node / React
-* Git e GitHub
+* C++
